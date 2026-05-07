@@ -1,0 +1,11 @@
+{
+  "name": "genomics-detector",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npx concurrently \"npm --prefix backend-node run dev\" \"npm --prefix frontend-react start\""
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.0"
+  }
+}
