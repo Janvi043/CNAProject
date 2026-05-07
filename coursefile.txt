@@ -1,1 +1,9 @@
-Additional file to practice to add to git repository
+Additional file to practice to add to git repository. 
+
+
+
+
+
+
+
+Doing changes.
