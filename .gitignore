@@ -1,7 +1,15 @@
 node_modules/
 .venv/
+
+# Environment files
 .env
+backend-node/.env
+frontend-react/.env
+
+# Build folders
 dist/
 build/
+
+# Python cache
 __pycache__/
 *.pyc
